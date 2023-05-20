@@ -1,0 +1,22 @@
+# IDE specific files
+.vscode/
+.idea/
+
+# SQLite database
+*.sqlite3
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Dependency directories
+venv/
+env/
+node_modules/
+
+# Other
+*.swp
+.DS_Store
